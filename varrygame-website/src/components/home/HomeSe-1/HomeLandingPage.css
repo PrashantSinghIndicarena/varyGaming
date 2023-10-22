@@ -1,0 +1,24 @@
+.home-landing-hero {
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4vw;
+    width: 100vw;
+    border: 2px solid#03736d;
+    border-radius: 8px;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+.home-landing-hero-left {
+    display: flex;
+    flex-direction: column;
+    gap: 3vh;
+    width: 50%;
+}
+.home-landing-hero-right {
+    width: 50%;
+}
+.home-landing-hero-right img {
+    width: 100%;
+}

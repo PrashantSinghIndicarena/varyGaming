@@ -1,0 +1,13 @@
+.home-landing-page-03 {
+    width: 100vw;
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-landing-page-03 section {
+    width: 80%;
+    border: 2px solid #03736d;
+    border-radius: 8px;
+}

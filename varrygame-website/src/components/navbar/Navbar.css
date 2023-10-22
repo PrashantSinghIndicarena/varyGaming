@@ -1,0 +1,11 @@
+.navbar-hero-section {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(74, 74, 159);
+    position: fixed;
+    z-index: 11;
+    top: 0;
+    padding: 1vh 3vw;
+}

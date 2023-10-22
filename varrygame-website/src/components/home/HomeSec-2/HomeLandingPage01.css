@@ -1,0 +1,17 @@
+.home-landing-page02{
+    margin-top: 10%;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid#03736d;
+    border-radius: 8px;
+    padding-top: 20vh;
+    padding-bottom: 10vh;
+}
+.home-landing-page02-left {
+     width: 50%;
+}
+.home-landing-page02-right {
+    width: 50%;
+}
